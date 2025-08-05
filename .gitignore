@@ -96,4 +96,8 @@ Thumbs.db
 # Qwen3 CLI specific files
 .qwen3-cli-config.json
 .qwen3-cli-history.json
-.qwen3-cli-last-response.json 
+.qwen3-cli-last-response.json
+
+# Generated markdown files (except README.md)
+*.md
+!README.md 
