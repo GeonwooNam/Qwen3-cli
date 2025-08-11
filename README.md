@@ -130,4 +130,4 @@ node bin/qwen.js
 
 ## 라이선스
 
-MIT 
+Apache 2.0 license 
